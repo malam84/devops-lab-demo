@@ -1,0 +1,6 @@
+[
+    {
+    "AllowedHosts": "*",
+    "apiUrl": "http://10.241.2.68:8132/api"
+}
+]
